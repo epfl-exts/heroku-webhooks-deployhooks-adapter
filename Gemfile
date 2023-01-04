@@ -6,6 +6,7 @@ ruby '3.1.2'
 
 gem 'addressable'
 gem 'excon'
+gem 'puma'
 gem 'rack'
 gem 'sinatra', require: 'sinatra/base'
 
